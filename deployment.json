@@ -1,0 +1,277 @@
+{
+  "checked": "2026-10-31",
+  "version": "v1.0.0",
+  "repo": "https://github.com/08-Ser-GT-Je-Personal-20261003/lord-day29-real-presence-20261031-v1-GTser",
+  "content_commit": "360a0e1aa100caf45dbdc3fdd53eee974bade697",
+  "public_urls": {
+    "github_pages": "https://08-ser-gt-je-personal-20261003.github.io/lord-day29-real-presence-20261031-v1-GTser/",
+    "surge": "https://lord-day29-real-presence-20261031-v1-gtser.surge.sh/"
+  },
+  "github_pages_successful_workflow": {
+    "conclusion": "success",
+    "databaseId": 41186349374,
+    "headSha": "360a0e1aa100caf45dbdc3fdd53eee974bade697",
+    "status": "completed"
+  },
+  "http_checks": [
+    {
+      "platform": "github_pages",
+      "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day29-real-presence-20261031-v1-GTser/",
+      "local_file": "index.html",
+      "status": 200,
+      "normalized_sha256": "5716d55494fda7c2f1b34500ae5d9a84ade7824c4f830f2e54bc499b2e81b558",
+      "local_sha256": "5716d55494fda7c2f1b34500ae5d9a84ade7824c4f830f2e54bc499b2e81b558",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "github_pages",
+      "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day29-real-presence-20261031-v1-GTser/app.js",
+      "local_file": "app.js",
+      "status": 200,
+      "normalized_sha256": "e82d1a323c3fd85cb9c0af973a3f518b307c3411038e9722b25d21ba33aff9f3",
+      "local_sha256": "e82d1a323c3fd85cb9c0af973a3f518b307c3411038e9722b25d21ba33aff9f3",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "github_pages",
+      "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day29-real-presence-20261031-v1-GTser/index.html",
+      "local_file": "index.html",
+      "status": 200,
+      "normalized_sha256": "5716d55494fda7c2f1b34500ae5d9a84ade7824c4f830f2e54bc499b2e81b558",
+      "local_sha256": "5716d55494fda7c2f1b34500ae5d9a84ade7824c4f830f2e54bc499b2e81b558",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "github_pages",
+      "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day29-real-presence-20261031-v1-GTser/lesson.css",
+      "local_file": "lesson.css",
+      "status": 200,
+      "normalized_sha256": "ac1af57ab6c6b5a6add5684c2d2f13eb99063bde04243657b5e74210f2cea20e",
+      "local_sha256": "ac1af57ab6c6b5a6add5684c2d2f13eb99063bde04243657b5e74210f2cea20e",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "github_pages",
+      "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day29-real-presence-20261031-v1-GTser/library.html",
+      "local_file": "library.html",
+      "status": 200,
+      "normalized_sha256": "053d2e95629da62d0d6f8af582e05f78947571b73b3a2211218f8679029fd828",
+      "local_sha256": "053d2e95629da62d0d6f8af582e05f78947571b73b3a2211218f8679029fd828",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "github_pages",
+      "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day29-real-presence-20261031-v1-GTser/reader-apostles.html",
+      "local_file": "reader-apostles.html",
+      "status": 200,
+      "normalized_sha256": "95129ec902970f6fce7967152d8b586aa1b773edde01ad434b5960f498b74ade",
+      "local_sha256": "95129ec902970f6fce7967152d8b586aa1b773edde01ad434b5960f498b74ade",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "github_pages",
+      "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day29-real-presence-20261031-v1-GTser/reader-athanasian.html",
+      "local_file": "reader-athanasian.html",
+      "status": 200,
+      "normalized_sha256": "faba8ec7116ddc6afdc9e28cf8ab82f37b9fc2de7eca67a12406eb289d07d126",
+      "local_sha256": "faba8ec7116ddc6afdc9e28cf8ab82f37b9fc2de7eca67a12406eb289d07d126",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "github_pages",
+      "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day29-real-presence-20261031-v1-GTser/reader-nicene.html",
+      "local_file": "reader-nicene.html",
+      "status": 200,
+      "normalized_sha256": "0ca665025fb766edfded8a832e29489e3a1cc05d583f01796ed2b1deb2ca0a27",
+      "local_sha256": "0ca665025fb766edfded8a832e29489e3a1cc05d583f01796ed2b1deb2ca0a27",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "github_pages",
+      "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day29-real-presence-20261031-v1-GTser/source-verification.json",
+      "local_file": "source-verification.json",
+      "status": 200,
+      "normalized_sha256": "4923829c90155e1dbdc4d5f06d35ff0fd63c5c5c6aaa6800ce244b2703f99776",
+      "local_sha256": "4923829c90155e1dbdc4d5f06d35ff0fd63c5c5c6aaa6800ce244b2703f99776",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "github_pages",
+      "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day29-real-presence-20261031-v1-GTser/study-data.js",
+      "local_file": "study-data.js",
+      "status": 200,
+      "normalized_sha256": "157f7e2f022e6d992c10b83f3b2da1f18d4b887b84dba14cfe5b03860ca0d2f2",
+      "local_sha256": "157f7e2f022e6d992c10b83f3b2da1f18d4b887b84dba14cfe5b03860ca0d2f2",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "github_pages",
+      "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day29-real-presence-20261031-v1-GTser/style.css",
+      "local_file": "style.css",
+      "status": 200,
+      "normalized_sha256": "660d1a7c9d2152a17ab37af62dc9ac92a7ccaf9b3c9d974eb0f773b7d25295b4",
+      "local_sha256": "660d1a7c9d2152a17ab37af62dc9ac92a7ccaf9b3c9d974eb0f773b7d25295b4",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "github_pages",
+      "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day29-real-presence-20261031-v1-GTser/assets/jerusalem.svg",
+      "local_file": "assets/jerusalem.svg",
+      "status": 200,
+      "normalized_sha256": "8b2ab176a4f4888ec40f1acffc943994bf6ef3ce87b30201475bf016c8e0902c",
+      "local_sha256": "8b2ab176a4f4888ec40f1acffc943994bf6ef3ce87b30201475bf016c8e0902c",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "github_pages",
+      "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day29-real-presence-20261031-v1-GTser/assets/mark.svg",
+      "local_file": "assets/mark.svg",
+      "status": 200,
+      "normalized_sha256": "bd11eaae5c25a0fbe8f88b67b1f4a78807fa5305bd101e27e5d0eb886b538fcf",
+      "local_sha256": "bd11eaae5c25a0fbe8f88b67b1f4a78807fa5305bd101e27e5d0eb886b538fcf",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "github_pages",
+      "url": "https://08-ser-gt-je-personal-20261003.github.io/lord-day29-real-presence-20261031-v1-GTser/assets/presence.svg",
+      "local_file": "assets/presence.svg",
+      "status": 200,
+      "normalized_sha256": "09649de020639f95ed1f23049d7471479e31c0221eba789a9fa8fc7a404f0c50",
+      "local_sha256": "09649de020639f95ed1f23049d7471479e31c0221eba789a9fa8fc7a404f0c50",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "surge",
+      "url": "https://lord-day29-real-presence-20261031-v1-gtser.surge.sh/",
+      "local_file": "index.html",
+      "status": 200,
+      "normalized_sha256": "5716d55494fda7c2f1b34500ae5d9a84ade7824c4f830f2e54bc499b2e81b558",
+      "local_sha256": "5716d55494fda7c2f1b34500ae5d9a84ade7824c4f830f2e54bc499b2e81b558",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "surge",
+      "url": "https://lord-day29-real-presence-20261031-v1-gtser.surge.sh/app.js",
+      "local_file": "app.js",
+      "status": 200,
+      "normalized_sha256": "e82d1a323c3fd85cb9c0af973a3f518b307c3411038e9722b25d21ba33aff9f3",
+      "local_sha256": "e82d1a323c3fd85cb9c0af973a3f518b307c3411038e9722b25d21ba33aff9f3",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "surge",
+      "url": "https://lord-day29-real-presence-20261031-v1-gtser.surge.sh/index.html",
+      "local_file": "index.html",
+      "status": 200,
+      "normalized_sha256": "5716d55494fda7c2f1b34500ae5d9a84ade7824c4f830f2e54bc499b2e81b558",
+      "local_sha256": "5716d55494fda7c2f1b34500ae5d9a84ade7824c4f830f2e54bc499b2e81b558",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "surge",
+      "url": "https://lord-day29-real-presence-20261031-v1-gtser.surge.sh/lesson.css",
+      "local_file": "lesson.css",
+      "status": 200,
+      "normalized_sha256": "ac1af57ab6c6b5a6add5684c2d2f13eb99063bde04243657b5e74210f2cea20e",
+      "local_sha256": "ac1af57ab6c6b5a6add5684c2d2f13eb99063bde04243657b5e74210f2cea20e",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "surge",
+      "url": "https://lord-day29-real-presence-20261031-v1-gtser.surge.sh/library.html",
+      "local_file": "library.html",
+      "status": 200,
+      "normalized_sha256": "053d2e95629da62d0d6f8af582e05f78947571b73b3a2211218f8679029fd828",
+      "local_sha256": "053d2e95629da62d0d6f8af582e05f78947571b73b3a2211218f8679029fd828",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "surge",
+      "url": "https://lord-day29-real-presence-20261031-v1-gtser.surge.sh/reader-apostles.html",
+      "local_file": "reader-apostles.html",
+      "status": 200,
+      "normalized_sha256": "95129ec902970f6fce7967152d8b586aa1b773edde01ad434b5960f498b74ade",
+      "local_sha256": "95129ec902970f6fce7967152d8b586aa1b773edde01ad434b5960f498b74ade",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "surge",
+      "url": "https://lord-day29-real-presence-20261031-v1-gtser.surge.sh/reader-athanasian.html",
+      "local_file": "reader-athanasian.html",
+      "status": 200,
+      "normalized_sha256": "faba8ec7116ddc6afdc9e28cf8ab82f37b9fc2de7eca67a12406eb289d07d126",
+      "local_sha256": "faba8ec7116ddc6afdc9e28cf8ab82f37b9fc2de7eca67a12406eb289d07d126",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "surge",
+      "url": "https://lord-day29-real-presence-20261031-v1-gtser.surge.sh/reader-nicene.html",
+      "local_file": "reader-nicene.html",
+      "status": 200,
+      "normalized_sha256": "0ca665025fb766edfded8a832e29489e3a1cc05d583f01796ed2b1deb2ca0a27",
+      "local_sha256": "0ca665025fb766edfded8a832e29489e3a1cc05d583f01796ed2b1deb2ca0a27",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "surge",
+      "url": "https://lord-day29-real-presence-20261031-v1-gtser.surge.sh/source-verification.json",
+      "local_file": "source-verification.json",
+      "status": 200,
+      "normalized_sha256": "4923829c90155e1dbdc4d5f06d35ff0fd63c5c5c6aaa6800ce244b2703f99776",
+      "local_sha256": "4923829c90155e1dbdc4d5f06d35ff0fd63c5c5c6aaa6800ce244b2703f99776",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "surge",
+      "url": "https://lord-day29-real-presence-20261031-v1-gtser.surge.sh/study-data.js",
+      "local_file": "study-data.js",
+      "status": 200,
+      "normalized_sha256": "157f7e2f022e6d992c10b83f3b2da1f18d4b887b84dba14cfe5b03860ca0d2f2",
+      "local_sha256": "157f7e2f022e6d992c10b83f3b2da1f18d4b887b84dba14cfe5b03860ca0d2f2",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "surge",
+      "url": "https://lord-day29-real-presence-20261031-v1-gtser.surge.sh/style.css",
+      "local_file": "style.css",
+      "status": 200,
+      "normalized_sha256": "660d1a7c9d2152a17ab37af62dc9ac92a7ccaf9b3c9d974eb0f773b7d25295b4",
+      "local_sha256": "660d1a7c9d2152a17ab37af62dc9ac92a7ccaf9b3c9d974eb0f773b7d25295b4",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "surge",
+      "url": "https://lord-day29-real-presence-20261031-v1-gtser.surge.sh/assets/jerusalem.svg",
+      "local_file": "assets/jerusalem.svg",
+      "status": 200,
+      "normalized_sha256": "8b2ab176a4f4888ec40f1acffc943994bf6ef3ce87b30201475bf016c8e0902c",
+      "local_sha256": "8b2ab176a4f4888ec40f1acffc943994bf6ef3ce87b30201475bf016c8e0902c",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "surge",
+      "url": "https://lord-day29-real-presence-20261031-v1-gtser.surge.sh/assets/mark.svg",
+      "local_file": "assets/mark.svg",
+      "status": 200,
+      "normalized_sha256": "bd11eaae5c25a0fbe8f88b67b1f4a78807fa5305bd101e27e5d0eb886b538fcf",
+      "local_sha256": "bd11eaae5c25a0fbe8f88b67b1f4a78807fa5305bd101e27e5d0eb886b538fcf",
+      "matches_local_ignoring_line_endings": true
+    },
+    {
+      "platform": "surge",
+      "url": "https://lord-day29-real-presence-20261031-v1-gtser.surge.sh/assets/presence.svg",
+      "local_file": "assets/presence.svg",
+      "status": 200,
+      "normalized_sha256": "09649de020639f95ed1f23049d7471479e31c0221eba789a9fa8fc7a404f0c50",
+      "local_sha256": "09649de020639f95ed1f23049d7471479e31c0221eba789a9fa8fc7a404f0c50",
+      "matches_local_ignoring_line_endings": true
+    }
+  ],
+  "all_public_files_match": true,
+  "visual_verification": {
+    "performed": false,
+    "reason": "Local browser use is disabled in Work settings; no bypass used.",
+    "dom_simulation": "Passed; see qa/dom-report.json",
+    "layout_limit": "Responsive CSS supplied; actual device overlap/overflow not measured."
+  }
+}
