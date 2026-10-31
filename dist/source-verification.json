@@ -1,0 +1,96 @@
+{
+  "checked": "2026-10-31",
+  "snapshot": "2026-10-17",
+  "policy": "Do not change source words, punctuation, numbering, or footnotes. Only layout whitespace excluded from live comparison.",
+  "checks": [
+    {
+      "document": "apostles",
+      "section": "使徒信经全文",
+      "source": "https://ccifellowship.org/books/book-of-praise/creeds/apostles-creed",
+      "same_words_punctuation_and_numbers_ignoring_layout_whitespace": true,
+      "snapshot_text_sha256": "c8b1a17f1e67d82e77c8c053367698a08f2b68555b2fc9bfe8bdf911d9d44027",
+      "live_raw_sha256": "dced115dfc80a047eebc4ecbb75f0e599f244a553abfb8f886996ed2eec19cd9"
+    },
+    {
+      "document": "nicene",
+      "section": "尼西亚信经全文",
+      "source": "https://ccifellowship.org/books/book-of-praise/creeds/nicene-creed",
+      "same_words_punctuation_and_numbers_ignoring_layout_whitespace": true,
+      "snapshot_text_sha256": "8c013606347e6879f2c10ab861e9c2ecaa3a12827784043d85dec6bf7aad6703",
+      "live_raw_sha256": "09c8eaa023c5159428f0ccde016da5f569f65db2438dfb6e1504ada791850915"
+    },
+    {
+      "document": "athanasian",
+      "section": "亚他那修信经全文",
+      "source": "https://ccifellowship.org/books/book-of-praise/creeds/athanasian-creed",
+      "same_words_punctuation_and_numbers_ignoring_layout_whitespace": true,
+      "snapshot_text_sha256": "131bb13c65c949a3e5be9db6aedab64fd141ffb6469fa01ae2ed5c73bd9e3e1e",
+      "live_raw_sha256": "615f3baac889b0ba50e520f4ad4b91a1293e6643f81a7d1297b3461e2f384439"
+    },
+    {
+      "document": "heidelberg",
+      "section": "47．问：这样，基督岂不是没有照他所应许的，与我们同在直到世界的末了吗1？",
+      "source": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-18",
+      "same_words_punctuation_and_numbers_ignoring_layout_whitespace": true,
+      "snapshot_text_sha256": "e4cc339a4abd91d92589b35ed729a2e2beaa13326c93e82f05600e4d21bd29ec",
+      "live_raw_sha256": "0b1707c8f0b83497c0f69c7104c93cd9564833df14d36b195dc5c60303dd2dd0"
+    },
+    {
+      "document": "heidelberg",
+      "section": "48．问：但如果基督的神性所在之处不都有人性同在的话，他的神人二性岂不是彼此分离了吗？这岂不是说他的神人二性是彼此分开的吗？",
+      "source": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-18",
+      "same_words_punctuation_and_numbers_ignoring_layout_whitespace": true,
+      "snapshot_text_sha256": "3055cf76d6490da936420998b880aac785832e103a10ae07b981a9f5cecec79c",
+      "live_raw_sha256": "0b1707c8f0b83497c0f69c7104c93cd9564833df14d36b195dc5c60303dd2dd0"
+    },
+    {
+      "document": "heidelberg",
+      "section": "78．问：那么，这饼和酒真的是变成基督的身体和宝血了吗？",
+      "source": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part6/lord-day-29",
+      "same_words_punctuation_and_numbers_ignoring_layout_whitespace": true,
+      "snapshot_text_sha256": "7d15bf260d5508595ac88eff4b60a6da38edf5d374b5ddeab4bfd8d05d5f2d62",
+      "live_raw_sha256": "34b08df309ea1e8da88d148c5ab98deccd5816ee37985335d9f60a47a66359de"
+    },
+    {
+      "document": "heidelberg",
+      "section": "79．问：那么，基督为什么称这饼是他的身体，这杯是他的血，是用他的血所立的新约呢？另外，为什么保罗也说到同领基督的身体和血呢？",
+      "source": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part6/lord-day-29",
+      "same_words_punctuation_and_numbers_ignoring_layout_whitespace": true,
+      "snapshot_text_sha256": "1013c92fade06f5e96f9cf54b6af426360a7a1ed6a89ac950eb8a64fa46015df",
+      "live_raw_sha256": "34b08df309ea1e8da88d148c5ab98deccd5816ee37985335d9f60a47a66359de"
+    },
+    {
+      "document": "belgic",
+      "section": "第十九条 论基督位格中的神人二性",
+      "source": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/19",
+      "same_words_punctuation_and_numbers_ignoring_layout_whitespace": true,
+      "snapshot_text_sha256": "4fe636afa22ae42b67a1930e2a4a169006bbe35da6b233b6df2e16caccda7fbe",
+      "live_raw_sha256": "e279190ee3f20f2bbea541ed2e41465023987f4db305229d842ad1cae05cde39"
+    },
+    {
+      "document": "belgic",
+      "section": "第三十三条 论圣礼",
+      "source": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/33",
+      "same_words_punctuation_and_numbers_ignoring_layout_whitespace": true,
+      "snapshot_text_sha256": "1fcc9fc22f126195570331870970a0128ee3bcae04463c77462799d1ea56f784",
+      "live_raw_sha256": "04f1e4afc9608137b2911f05cb7ca450c973e07ba4cb4a57302e7f84d129a34d"
+    },
+    {
+      "document": "belgic",
+      "section": "第三十五条 论圣餐",
+      "source": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/35",
+      "same_words_punctuation_and_numbers_ignoring_layout_whitespace": true,
+      "snapshot_text_sha256": "e33f3e47084c900d05503dc44601038ad57fda81b497872bb5ce85fb85e898cf",
+      "live_raw_sha256": "7f596d6122024b22a8ca4fdd0d5ec327aff7dbce5cc66360e0aaac98946335ff"
+    },
+    {
+      "document": "dort",
+      "section": "第十四条 神使真信徒持守信仰所用的方法",
+      "source": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/14",
+      "same_words_punctuation_and_numbers_ignoring_layout_whitespace": true,
+      "snapshot_text_sha256": "9ecce8feea583b28752a948102760104c8144839cd2fd7a2ba03e71ba67e290a",
+      "live_raw_sha256": "d3420a95864263156981c35750e0dd427ee960e6f015bad533f239ea6593ec43"
+    }
+  ],
+  "all_match": true
+}

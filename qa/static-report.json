@@ -1,0 +1,21 @@
+{
+  "checked": "2026-10-31",
+  "checks": {
+    "five_complete_html_pages": true,
+    "unique_ids_and_all_internal_links": true,
+    "all_local_startup_assets_and_svg_parse": true,
+    "all_232_original_entries_match_snapshot": true,
+    "all_snapshot_text_sha256_valid": true,
+    "all_three_clean_creed_readers_exact": true,
+    "questions_78_79_exact": true,
+    "all_11_live_source_checks_pass": true,
+    "complete_30_scripture_verses": true,
+    "all_16_answers_expanded_by_default": true,
+    "responsive_breakpoints_and_reduced_motion_present": true
+  },
+  "browser_visual_check": {
+    "performed": false,
+    "reason": "Local browser use is disabled in Work settings. Browser automation was not bypassed.",
+    "limits": "No actual mobile/tablet/desktop screenshots, pixel geometry or overflow measurements are claimed."
+  }
+}

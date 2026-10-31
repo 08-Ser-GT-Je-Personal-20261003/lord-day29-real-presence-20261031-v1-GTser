@@ -1,0 +1,44 @@
+{
+  "checked": "2026-10-31",
+  "method": "jsdom 26 DOM simulation; no browser or visual layout testing",
+  "checks": [
+    {
+      "page": "index.html",
+      "toc": true,
+      "all_16_answers": true,
+      "theme_and_font": true,
+      "four_perspective_explorer": true,
+      "story_nodes_and_play_pause": true,
+      "all_six_quiz_questions": true,
+      "review_storage": true,
+      "speech_fallback": true
+    },
+    {
+      "page": "reader-apostles.html",
+      "mask_and_reveal": true,
+      "keyboard": true,
+      "source_text_unchanged": true,
+      "speech_fallback": true
+    },
+    {
+      "page": "reader-nicene.html",
+      "mask_and_reveal": true,
+      "keyboard": true,
+      "source_text_unchanged": true,
+      "speech_fallback": true
+    },
+    {
+      "page": "reader-athanasian.html",
+      "mask_and_reveal": true,
+      "keyboard": true,
+      "source_text_unchanged": true,
+      "speech_fallback": true
+    },
+    {
+      "page": "library.html",
+      "original_entries": 232,
+      "no_runtime_errors": true
+    }
+  ],
+  "all_pass": true
+}
